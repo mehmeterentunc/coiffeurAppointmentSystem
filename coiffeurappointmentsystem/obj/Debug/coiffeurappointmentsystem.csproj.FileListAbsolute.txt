@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Business\Projelerim\Coiffeur Appointment System\coiffeurappointmentsystem\coiffeurappointmentsystem\bin\Debug\coiffeurappointmentsystem.exe.config
+C:\Users\User\Desktop\Business\Projelerim\Coiffeur Appointment System\coiffeurappointmentsystem\coiffeurappointmentsystem\bin\Debug\coiffeurappointmentsystem.exe
+C:\Users\User\Desktop\Business\Projelerim\Coiffeur Appointment System\coiffeurappointmentsystem\coiffeurappointmentsystem\bin\Debug\coiffeurappointmentsystem.pdb
+C:\Users\User\Desktop\Business\Projelerim\Coiffeur Appointment System\coiffeurappointmentsystem\coiffeurappointmentsystem\obj\Debug\coiffeurappointmentsystem.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Business\Projelerim\Coiffeur Appointment System\coiffeurappointmentsystem\coiffeurappointmentsystem\obj\Debug\coiffeurappointmentsystem.Form1.resources
+C:\Users\User\Desktop\Business\Projelerim\Coiffeur Appointment System\coiffeurappointmentsystem\coiffeurappointmentsystem\obj\Debug\coiffeurappointmentsystem.Properties.Resources.resources
+C:\Users\User\Desktop\Business\Projelerim\Coiffeur Appointment System\coiffeurappointmentsystem\coiffeurappointmentsystem\obj\Debug\coiffeurappointmentsystem.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Business\Projelerim\Coiffeur Appointment System\coiffeurappointmentsystem\coiffeurappointmentsystem\obj\Debug\coiffeurappointmentsystem.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Business\Projelerim\Coiffeur Appointment System\coiffeurappointmentsystem\coiffeurappointmentsystem\obj\Debug\coiffeurappointmentsystem.exe
+C:\Users\User\Desktop\Business\Projelerim\Coiffeur Appointment System\coiffeurappointmentsystem\coiffeurappointmentsystem\obj\Debug\coiffeurappointmentsystem.pdb
+C:\Users\User\Desktop\Business\Projelerim\Coiffeur Appointment System\coiffeurappointmentsystem\coiffeurappointmentsystem\obj\Debug\coiffeurappointmentsystem.contactForm.resources
+C:\Users\User\Desktop\Business\Projelerim\Coiffeur Appointment System\coiffeurappointmentsystem\coiffeurappointmentsystem\obj\Debug\coiffeurappointmentsystem.appointmentForm.resources
+C:\Users\User\Desktop\Business\Projelerim\Coiffeur Appointment System\coiffeurappointmentsystem\coiffeurappointmentsystem\obj\Debug\coiffeurappointmentsystem.hairdressersForm.resources
+C:\Users\User\Desktop\Business\Projelerim\Coiffeur Appointment System\coiffeurappointmentsystem\coiffeurappointmentsystem\obj\Debug\coiffeurappointmentsystem.priceListForm.resources
+C:\Users\User\Desktop\Business\Projelerim\Coiffeur Appointment System\coiffeurappointmentsystem\coiffeurappointmentsystem\obj\Debug\coiffeurappointmentsystem.aboutForm.resources
+C:\Users\User\Desktop\Business\Projelerim\Coiffeur Appointment System\coiffeurappointmentsystem\coiffeurappointmentsystem\obj\Debug\coiffeurappointmentsystem.login.resources
+C:\Users\User\Desktop\Business\Projelerim\Coiffeur Appointment System\coiffeurappointmentsystem\coiffeurappointmentsystem\obj\Debug\coiffeurappointmentsystem.register.resources
